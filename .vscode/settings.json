@@ -1,0 +1,18 @@
+{
+  // Disable VS Code's extension recommendation prompts for this workspace
+  "extensions.ignoreRecommendations": true,
+
+  // Prevent GitHub Copilot from providing suggestions in this workspace
+  "github.copilot.enable": false,
+  "github.copilot.inlineSuggest.enable": false,
+
+  // Disable inline and quick suggestions / autocomplete in this workspace
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": false
+}

@@ -1,0 +1,115 @@
+//LEETCODE 876. Middle of the Linked List
+//Given the head of a singly linked list, return the middle node of the linked list.
+//If there are two middle nodes, return the second middle node.
+
+
+
+LEETCODE 206. Reverse Linked List
+Given the head of a singly linked list, reverse the list, and return the reversed list.
+
+
+
+
+141. Linked List Cycle
+
+Given head, the head of a linked list, determine if the linked list has a cycle in it.
+There is a cycle in a linked list if there is some node in the list that can 
+be reached again by continuously following the next pointer. Internally, pos is used to denote 
+the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.
+Return true if there is a cycle in the linked list. Otherwise, return false.
+
+
+
+
+
+Code
+
+
+234. Palindrome Linked List
+
+Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
+Input: head = [1,2,2,1]
+Output: true
+Input: head = [1,2]
+Output: false
+
+
+
+// leetcode 160 - Intersection of Two Linked Lists
+
+// Given the heads of two singly linked-lists headA and headB,
+//  return the node at which the two lists intersect. 
+//  If the two linked lists have no intersection at all, return null.
+// For example, the following two linked lists begin to intersect at node c1:
+// Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5], skipA = 2, skipB = 3
+// Output: Intersected at '8'
+
+
+
+
+leetcode 203 - Remove Linked List Elements
+// Given the head of a linked list and an integer val,
+//  remove all the nodes of the linked list that has Node.val == val, and return the new head.
+// Input: head = [1,2,6,3,4,5,6], val = 6
+// Output: [1,2,3,4,5]
+
+leetcode 19 - Remove Nth Node From End of List
+// Given the head of a linked list, remove the nth node from the end of the list and return its head.
+
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+
+Input: head = [1], n = 1
+Output: []
+
+leetcode 83 - Remove Duplicates from Sorted List
+// Given the head of a sorted linked list, delete all duplicates such that each element appears only
+// once. Return the linked list sorted as well.
+Input: head = [1,1,2]
+Output: [1,2]
+
+
+
+
+
+
+// leetcode 328. Odd Even Linked List
+// Given the head of a singly linked list, group all the nodes with odd indices together 
+// followed by the nodes with even indices, and return the reordered list.
+// The first node is considered odd, and the second node is even, and so on.
+// Note that the relative order inside both the even and odd groups should remain as it was in the input.
+// You must solve the problem in O(1) extra space complexity and O(n) time complexity.
+
+day 30 - 16/09/2025
+leetcode 2 - Add Two Numbers
+// You are given two non-empty linked lists representing two non-negative integers.
+// The digits are stored in reverse order, and each of their nodes contains a single digit.
+// Add the two numbers and return the sum as a linked list.
+// You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+Input: l1 = [2,4,3], l2 = [5,6,4]
+Output: [7,0,8]
+Explanation: 342 + 465 = 807.
+
+
+
+
+// day 31 - 17/09/2025
+// leetcode 21 Merge Two Sorted Lists
+// You are given the heads of two sorted linked lists list1 and list2.
+// Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists.
+// Return the head of the merged linked list.
+
+
+// day 32 - 18/09/2025
+// leetcode 61 Rotate List
+// Given the head of a linked list, rotate the list to the right by k places.
+// Input: head = [1,2,3,4,5], k = 2
+// Output: [4,5,1,2,3]
+
+
+//day 33 - 19/09/2025
+leetcode 24 - Swap Nodes in Pairs
+// Given a linked list, swap every two adjacent nodes and return its head.
+// You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+Input: head = [1,2,3,4]
+Output: [2,1,4,3]

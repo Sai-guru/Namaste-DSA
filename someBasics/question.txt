@@ -1,0 +1,9 @@
+Problem Statement:
+1).Write a function countDigits(n)that takes an integer n 
+and returns how many digits it contains.
+
+2).Write a function to return the sum of the digits...
+
+3).Palindrome
+
+4).Reverse intger ; eg : ip(cases) :123 , -123 , 120 then op : 321 , -321 ,21
