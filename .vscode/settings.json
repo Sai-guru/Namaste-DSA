@@ -14,5 +14,6 @@
     "strings": false
   },
   "editor.suggestOnTriggerCharacters": false,
-  "editor.wordBasedSuggestions": "off"
+  "editor.wordBasedSuggestions": "off",
+  "java.debug.settings.onBuildFailureProceed": true
 }
